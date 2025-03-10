@@ -9,7 +9,12 @@ I'm embarking on a journey in the field of Software Engineering ⭐, to make a s
 - 🌍 **From:** India
 - 💼 **Career Goals:**  
   - **Software Development:** Skilled in building robust and scalable applications and interested in embedded systems work.
-- 🏃 **Athletics Enthusiast:** Sports and fitness are my second passion! 
+- 🏃 **Athletics Enthusiast:** Sports and fitness are my second passion!
+
+- 🔭 I’m currently working on the MIND website, which I’m building using Next.js!
+- 🌱 I’m currently learning Next.js and AWS.
+- 👯 I’m looking to collaborate on web development, embedded systems, networking, or any other project that helps me learn more about technology!
+- 🤔 I’m looking for help with iOS/Android app development.
 
 <!--
 **jaivalp22/jaivalp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
