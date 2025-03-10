@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate developer and lifelong learner 
 
 
 #### About me **Statistically Speaking**
-- I am a bit new in terms of personal projects in Github, however, my dedication will leave no room for improvement!!
+- I am a bit new in terms of personal projects in Github, however, my dedication is boundless!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaivalp22)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ **Fun Fact**  
